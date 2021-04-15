@@ -1,0 +1,13 @@
+{
+    "dataBinding": {
+        "/webapp/view/ProductList.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/ProductDetails.view.xml": {
+            "entitySet": "/ProductSet"
+        }, 
+        "/webapp/view/Review.view.xml": {
+            "entitySet": "/ReviewSet"
+        } 
+    }
+}
